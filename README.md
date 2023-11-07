@@ -19,6 +19,8 @@ Functional version withou any client side mods.
 * https://www.curseforge.com/minecraft/mc-mods/playeranimator
 * https://www.curseforge.com/minecraft/mc-mods/ok-zoomer-forge
 * https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims
+    * https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
+    * https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
 * https://www.curseforge.com/minecraft/mc-mods/simple-shops
 
 
@@ -49,6 +51,10 @@ If you want to retain your previous settings after updating the modpack follow t
 * VaultHunter Modpack
 * https://www.curseforge.com/minecraft/mc-mods/bisecthosting-server-integration-menu-forge
 * https://www.curseforge.com/minecraft/mc-mods/emotecraft-forge
+    * https://www.curseforge.com/minecraft/mc-mods/playeranimator
 * https://www.curseforge.com/minecraft/mc-mods/ok-zoomer-forge
 * https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims
+    requires latest versions of:
+    * https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
+    * https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
 * https://www.curseforge.com/minecraft/mc-mods/simple-shops
